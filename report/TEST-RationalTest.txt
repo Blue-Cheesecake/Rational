@@ -1,0 +1,36 @@
+Testsuite: RationalTest
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 sec
+
+Testcase: testMultiplyZeroNumerator took 0.001 sec
+Testcase: testMultiplyZeroDenominator took 0 sec
+Testcase: testCompareToOtherObject took 0 sec
+Testcase: testAddZeroNumerator took 0 sec
+Testcase: testMultiplyWholeNumber took 0 sec
+Testcase: testEqualsOtherObject took 0 sec
+Testcase: testSubtractWholeNumber took 0 sec
+Testcase: testMultiplyNegativeNumber took 0 sec
+Testcase: testCompareToZeroDenominator took 0.001 sec
+Testcase: testToString took 0.003 sec
+Testcase: testCompareToEquals took 0 sec
+Testcase: testMultiplyPositiveNumber took 0 sec
+Testcase: testSubtractZeroNumerator took 0 sec
+Testcase: testAddWholeNumber took 0 sec
+Testcase: testAddZeroDenominator took 0 sec
+Testcase: testAddPositiveRationalNumber took 0 sec
+Testcase: testEqualsBoth took 0 sec
+Testcase: testDivideNegativeNumber took 0 sec
+Testcase: testCompareToLessThan took 0 sec
+Testcase: testEqualsOnlyDenominator took 0 sec
+Testcase: testDivideZeroDenominator took 0.001 sec
+Testcase: testDividePositiveNumber took 0 sec
+Testcase: testAddNegativeRationalNumber took 0 sec
+Testcase: testDivideWholeNumber took 0 sec
+Testcase: testSubtractZeroDenominator took 0 sec
+Testcase: testEqualsZeroDenominator took 0 sec
+Testcase: testEqualsOnlyNumerator took 0 sec
+Testcase: testZeroDenominatorConstructor took 0 sec
+Testcase: testSubtractNegativeNumber took 0 sec
+Testcase: testNotEquals took 0 sec
+Testcase: testSubtractPositiveNumber took 0 sec
+Testcase: testDivideZeroNumerator took 0 sec
+Testcase: testCompareToMoreThan took 0 sec
